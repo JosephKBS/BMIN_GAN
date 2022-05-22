@@ -31,8 +31,12 @@
 ------------------------------------------------------
 ## [Summary table of model-performance]
 
-| Metric    | Iter100  | Iter100 | Iter100  | 
+| Metric    | Iter100  | Iter200 | Iter500  | 
 |-----------|----------|---------|----------|
 | Accuracy  | 0.63     | 0.57    | 0.55     | 
+
+    - Iter100 = 100 iteration of epochs 
+    - Iter200 = 200 iteration of epochs 
+    - Iter500 = 500 iteration of epochs 
 
 
