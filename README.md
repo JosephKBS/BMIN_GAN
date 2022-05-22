@@ -1,4 +1,4 @@
-![main](iter500.png =250x250 )
+![main](iter500.png =100x20 )
 
 # Deep-Fake medical image(X-ray) using GAN
 
