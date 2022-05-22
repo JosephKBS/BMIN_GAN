@@ -1,9 +1,10 @@
 <p float="left" align="center">
     <img src="iter100-2.png" width="400" height="355">
     <img src="iter500-2.png" width="400" height="360">
+</p>
+<p float="left" align="center">
     <em> 100 Iteration (left) & 500 Iteration (right) </em>
 </p>
-
 # Deep-Fake medical image(X-ray) using GAN
 
 - This is README file for the paper "Pneumonia Chest X-ray Image Classification". This paper is a final project report for the Deep learning in Medicine (BMIN-GA 3007) at Department of Biomedical Informatics at NYU Grossman School of Medicine.
