@@ -1,5 +1,6 @@
-![main](iter500.png =100x20 )
-<img src="iter500.png" width="400" height="400" >
+<img src="iter100.png" width="400" height="400">
+<img src="iter200.png" width="400" height="400">
+<img src="iter500.png" width="400" height="400">
 
 
 # Deep-Fake medical image(X-ray) using GAN
