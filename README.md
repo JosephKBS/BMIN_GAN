@@ -1,7 +1,7 @@
 <p float="left">
-    <img src="iter100.png" width="500" height="350">
-    <img src="iter500.png" width="500" height="360">
-    <em>image_caption</em>
+    <img src="iter100.png" width="400" height="350">
+    <img src="iter500.png" width="400" height="360">
+    <em> 100 Iteration (left) & 500 Iteration (right) </em>
 </p>
 
 # Deep-Fake medical image(X-ray) using GAN
