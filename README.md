@@ -1,6 +1,6 @@
 <p float="left">
-    <img src="iter100.png" width="600" height="400">
-    <img src="iter500.png" width="600" height="400">
+    <img src="iter100.png" width="500" height="350">
+    <img src="iter500.png" width="500" height="350">
 </p>
 
 # Deep-Fake medical image(X-ray) using GAN
