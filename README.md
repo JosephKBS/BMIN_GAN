@@ -43,5 +43,5 @@ The paper ["CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learnin
 
 ## [Reference]
 
-- Yisroel Mirsky, Tom Mahler, Ilan Shelef, Yuval Elovici (2019) "CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning",  28th USENIX Security Symposium (USENIX Security 2019). [paper link](arXiv:1901.03597](https://arxiv.org/pdf/1901.03597.pdf)
-- Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2. [data link](10.17632/rscbjbr9sj.2](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+- Yisroel Mirsky, Tom Mahler, Ilan Shelef, Yuval Elovici (2019) "CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning",  28th USENIX Security Symposium (USENIX Security 2019). [paper link](https://arxiv.org/pdf/1901.03597.pdf)
+- Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2. [data link](https://data.mendeley.com/datasets/rscbjbr9sj/2)
