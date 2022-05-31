@@ -1,6 +1,6 @@
 <p float="left" align="center">
-    <img src="iter100-22.png" width="400" height="355">
-    <img src="iter500-22.png" width="400" height="360">
+    <img src="iter100-22.png" width="200" height="355">
+    <img src="iter500-22.png" width="200" height="360">
 </p>
 <p float="left" align="center">
     <em> 100 Iteration (left) & 500 Iteration (right) </em>
