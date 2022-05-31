@@ -12,7 +12,7 @@
 ------------------------------------------------------
 
 ## [Abstract]
-The paper "CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning" presented that the possibility of cyber attach on medicla records which leads to a serious damage on medical diagnosis process. This paper simulates the hypothetical attack by creating deep-fake X-ray images. The ResNet-18 model, which achieved 0.98 accuracy on the origianl dataset, performned much worse by 0.63, 0.57 and 0.55 (100, 200, and 500 iterations) on the fake images created by `GAN (Generative adversarial networks)`. The result reiterate the danger of deep learning-based methods.
+The paper ["CT-GAN: Malicious Tampering of 3D Medical Imagery using Deep Learning"](https://arxiv.org/pdf/1901.03597v3.pdf) presented that the possibility of cyber attach on medicla records which leads to a serious damage on medical diagnosis process. This paper simulates the hypothetical attack by creating deep-fake X-ray images. The ResNet-18 model, which achieved 0.98 accuracy on the origianl dataset, performned much worse by 0.63, 0.57 and 0.55 (100, 200, and 500 iterations) on the fake images created by `GAN (Generative adversarial networks)`. The result reiterate the danger of deep learning-based methods.
 
 ------------------------------------------------------
 ## [Model]
